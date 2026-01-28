@@ -441,7 +441,7 @@ ng test --browsers=Chrome
     "test:ci": "ng test --watch=false --browsers=ChromeHeadless --code-coverage",
     "lint": "ng lint",
     "lint:fix": "ng lint --fix",
-    "analyze": "ng build -c production --stats-json && npx webpack-bundle-analyzer dist/my-app/browser/stats.json",
+    "analyze": "ng build -c production --stats-json && npx esbuild-visualizer --metadata dist/my-app/browser/stats.json --open",
     "update": "ng update"
   }
 }

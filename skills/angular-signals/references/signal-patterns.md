@@ -345,13 +345,16 @@ describe('CounterComponent', () => {
 describe('ProductStore', () => {
   let store: ProductStore;
   let httpMock: HttpTestingController;
-  
+
   beforeEach(() => {
     TestBed.configureTestingModule({
-      providers: [ProductStore],
-      imports: [HttpClientTestingModule],
+      providers: [
+        ProductStore,
+        provideHttpClient(),
+        provideHttpClientTesting(),
+      ],
     });
-    
+
     store = TestBed.inject(ProductStore);
     httpMock = TestBed.inject(HttpTestingController);
   });
